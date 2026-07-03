@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajeev232/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/rajeev232/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajeev232/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rajeev232/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev232/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajeev232/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rajeev232/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajeev232/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
